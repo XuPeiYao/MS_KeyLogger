@@ -1,0 +1,9 @@
+D:\Gamma\TestForm\bin\Debug\TestForm.exe.config
+D:\Gamma\TestForm\bin\Debug\TestForm.exe
+D:\Gamma\TestForm\bin\Debug\TestForm.pdb
+D:\Gamma\TestForm\obj\Debug\TestForm.csprojResolveAssemblyReference.cache
+D:\Gamma\TestForm\obj\Debug\TestForm.Form1.resources
+D:\Gamma\TestForm\obj\Debug\TestForm.Properties.Resources.resources
+D:\Gamma\TestForm\obj\Debug\TestForm.csproj.GenerateResource.Cache
+D:\Gamma\TestForm\obj\Debug\TestForm.exe
+D:\Gamma\TestForm\obj\Debug\TestForm.pdb
